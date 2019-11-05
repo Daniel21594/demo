@@ -1,14 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "accounts":[
+      ["icon_add", "icon_add_clicked", "ADD", "WALLET", "Account"],
+      [
+        "icon_light",
+        "icon_light_clicked",
+        "GHASSANS",
+        "WALLET",
+        "Account",
+      ],
+      [
+        "icon_light",
+        "icon_light_clicked",
+        "COFFEE",
+        "FUND #1",
+        "Account",
+      ],
+      [
+        "icon_light",
+        "icon_light_clicked",
+        "ONLINE",
+        "SHOPPING",
+        "Account",
+      ],
+    ]
 }
