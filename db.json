@@ -1,26 +1,8 @@
 {
-  "accounts":[
-      ["icon_add", "icon_add_clicked", "ADD", "WALLET", "Account"],
-      [
-        "icon_light",
-        "icon_light_clicked",
-        "GHASSANS",
-        "WALLET",
-        "Account",
-      ],
-      [
-        "icon_light",
-        "icon_light_clicked",
-        "COFFEE",
-        "FUND #1",
-        "Account",
-      ],
-      [
-        "icon_light",
-        "icon_light_clicked",
-        "ONLINE",
-        "SHOPPING",
-        "Account",
-      ]
-    ]
+  "accounts": [
+    ["icon_add", "icon_add_clicked", "ADD", "WALLET", "Account"],
+    ["icon_light", "icon_light_clicked", "GHASSANS", "WALLET", "Account"],
+    ["icon_light", "icon_light_clicked", "COFFEE", "FUND #1", "Account"],
+    ["icon_light", "icon_light_clicked", "ONLINE", "SHOPPING", "Account"]
+  ]
 }
