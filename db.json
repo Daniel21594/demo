@@ -4,5 +4,83 @@
     ["icon_light", "icon_light_clicked", "GHASSANS", "WALLET", "Account"],
     ["icon_light", "icon_light_clicked", "COFFEE", "FUND #1", "Account"],
     ["icon_light", "icon_light_clicked", "ONLINE", "SHOPPING", "Account"]
-  ]
+  ],
+  "account": {
+    "txnData": [
+      {
+        "key": "0",
+        "imgURL": "icon_send",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "1",
+        "imgURL": "icon_receive",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "2",
+        "imgURL": "icon_chanel",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "3",
+        "imgURL": "icon_send",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "4",
+        "imgURL": "icon_send",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "5",
+        "imgURL": "icon_send",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "6",
+        "imgURL": "icon_send",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "7",
+        "imgURL": "icon_send",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "8",
+        "imgURL": "icon_send",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      },
+      {
+        "key": "9",
+        "imgURL": "icon_send",
+        "s1": "3 Minutes ago",
+        "s2": "Sent - #42151",
+        "s3": "0.51 BTC"
+      }
+    ],
+    "walletName": "GHASSANS",
+    "walletType": "WALLET",
+    "balanceAmount": "14.51",
+    "balanceType": "SAT"
+  }
 }
