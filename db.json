@@ -1,8 +1,4 @@
 {
-  "rooms": {
-  "srchTxt": "",
-  "isSrchStarted": false,
-  "itemClicked": false,
   "listData": [
     {
       "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
@@ -26,11 +22,6 @@
       "location": "Sanfransisco"
     }
   ],
-  "gColors": [
-    ["#122C3A", "#122C3A", "#122C3A"],
-    ["#52d4cd", "#54a5b1", "#57658c"]
-  ]
-},
   "account": {
     "txnData": [
       {
