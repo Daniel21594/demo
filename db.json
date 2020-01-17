@@ -1,10 +1,36 @@
 {
-  "accounts": [
-    ["icon_add", "icon_add_clicked", "ADD", "WALLET", "Account"],
-    ["icon_light", "icon_light_clicked", "GHASSANS", "WALLET", "Account"],
-    ["icon_light", "icon_light_clicked", "COFFEE", "FUND #1", "Account"],
-    ["icon_light", "icon_light_clicked", "ONLINE", "SHOPPING", "Account"]
+  "rooms": {
+  "srchTxt": "",
+  "isSrchStarted": false,
+  "itemClicked": false,
+  "listData": [
+    {
+      "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+      "title": "Ghassan",
+      "cont": "Hey man! You got a medium in black available?",
+      "timeTxt": "Just now",
+      "avatar_url": "Images.img_face1",
+      "selected": false
+    },
+    {
+      "id": "bd7acbea-c1b1-46c2-aed5-sdfasdew",
+      "title": "Ghassan",
+      "cont": "Hey man! You got a medium in black available?",
+      "timeTxt": "Just now",
+      "avatar_url": "Images.img_face1",
+      "selected": false,
+      "star": 4.5,
+      "type": "Software Architect Consultant",
+      "rate": 1,
+      "status": "Available",
+      "location": "Sanfransisco"
+    }
   ],
+  "gColors": [
+    ["#122C3A", "#122C3A", "#122C3A"],
+    ["#52d4cd", "#54a5b1", "#57658c"]
+  ]
+},
   "account": {
     "txnData": [
       {
