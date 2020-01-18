@@ -23,45 +23,46 @@
     }
   ],
   "messages":[
-      {
-        type: 'RECEIVED',
-        cont_type: 'media',
-      },
-      {
-        type: 'COIN_REQUEST',
-        content: {
-          time: '10:43 PM',
-          amount: '0.012',
-          currency: 'BTC',
-        },
-      },
-      {
-        type: 'SENT',
-        content: 'You know it! Saved one just for you. Not many left!',
-      },
-      {
-        type: 'COIN_SENT',
-        content: {
-          time: '10:43 PM',
-          name: 'GHASSAN',
-          amount: '0.012',
-          currency: 'BTC',
-        },
-      },
-      {
-        type: 'SENT',
-        content: 'You know it! Saved one just for you',
-      },
-      {
-        type: 'RECEIVED',
-        content: 'Hey man! You got a medium in black available?',
-        time: '10:42 PM',
-      },
-      {
-        type: 'TIME',
-        content: 'TODAY',
-      },
-    ],
+  {
+    "type": "RECEIVED",
+    "cont_type": "media"
+  },
+  {
+    "type": "COIN_REQUEST",
+    "content": {
+      "time": "10:43 PM",
+      "amount": "0.012",
+      "currency": "BTC"
+    }
+  },
+  {
+    "type": "SENT",
+    "content": "You know it! Saved one just for you. Not many left!"
+  },
+  {
+    "type": "COIN_SENT",
+    "content": {
+      "time": "10:43 PM",
+      "name": "GHASSAN",
+      "amount": "0.012",
+      "currency": "BTC"
+    }
+  },
+  {
+    "type": "SENT",
+    "content": "You know it! Saved one just for you"
+  },
+  {
+    "type": "RECEIVED",
+    "content": "Hey man! You got a medium in black available?",
+    "time": "10:42 PM"
+  },
+  {
+    "type": "TIME",
+    "content": "TODAY"
+  }
+]
+,
     "walletName": "GHASSANS",
     "walletType": "WALLET",
     "balanceAmount": "14.51",
