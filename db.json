@@ -22,78 +22,45 @@
       "location": "Sanfransisco"
     }
   ],
-  "account": {
-    "txnData": [
+  "messages":[
       {
-        "key": "0",
-        "imgURL": "icon_send",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
+        type: 'RECEIVED',
+        cont_type: 'media',
       },
       {
-        "key": "1",
-        "imgURL": "icon_receive",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
+        type: 'COIN_REQUEST',
+        content: {
+          time: '10:43 PM',
+          amount: '0.012',
+          currency: 'BTC',
+        },
       },
       {
-        "key": "2",
-        "imgURL": "icon_chanel",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
+        type: 'SENT',
+        content: 'You know it! Saved one just for you. Not many left!',
       },
       {
-        "key": "3",
-        "imgURL": "icon_send",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
+        type: 'COIN_SENT',
+        content: {
+          time: '10:43 PM',
+          name: 'GHASSAN',
+          amount: '0.012',
+          currency: 'BTC',
+        },
       },
       {
-        "key": "4",
-        "imgURL": "icon_send",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
+        type: 'SENT',
+        content: 'You know it! Saved one just for you',
       },
       {
-        "key": "5",
-        "imgURL": "icon_send",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
+        type: 'RECEIVED',
+        content: 'Hey man! You got a medium in black available?',
+        time: '10:42 PM',
       },
       {
-        "key": "6",
-        "imgURL": "icon_send",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
+        type: 'TIME',
+        content: 'TODAY',
       },
-      {
-        "key": "7",
-        "imgURL": "icon_send",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
-      },
-      {
-        "key": "8",
-        "imgURL": "icon_send",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
-      },
-      {
-        "key": "9",
-        "imgURL": "icon_send",
-        "s1": "3 Minutes ago",
-        "s2": "Sent - #42151",
-        "s3": "0.51 BTC"
-      }
     ],
     "walletName": "GHASSANS",
     "walletType": "WALLET",
